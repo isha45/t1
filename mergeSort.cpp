@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//Contributed by : Isha Bansal
 void merge(int arr[],int s,int mid,int e){
     int left=s;;
     int right=mid;
